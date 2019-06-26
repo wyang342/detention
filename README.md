@@ -12,9 +12,7 @@ this.state.count = 1
 this.state.props = true
 ```
 
-In class-based components, `state` should only be modified using the React Component's [setState](https://facebook.github.io/react/docs/react-component.html#setstate) method. Props should never be modified from inside a component - the data passed into the component via props should be modified via a higher order component - one up the component tree.
-
-**In React, data flows down.**
+In class-based components, `state` should only be modified using the React Component's [setState](https://facebook.github.io/react/docs/react-component.html#setstate) method. In functional components, `state` should only be modified using the `useState` method.
 
 Release 0 - Setup
 -------------
