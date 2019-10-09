@@ -1,4 +1,4 @@
-Dentention
+Detention
 ===================
 There's nothing like old fashioned mental conditioning.
 
