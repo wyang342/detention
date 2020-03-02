@@ -14,6 +14,8 @@ this.state.props = true
 
 In class-based components, `state` should only be modified using the React Component's [setState](https://facebook.github.io/react/docs/react-component.html#setstate) method. In functional components, `state` should only be modified using the `useState` method.
 
+__Create the App using Class Based Componenents then create the app using Functional Based Components to get used to using Class Based and Functional Based Componenets.__
+
 Release 0 - Setup
 -------------
 * Use `create-react-app` to scaffold an app
