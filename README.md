@@ -22,7 +22,7 @@ Release 0 - Setup
 
 Release 1 - Detention
 -----------------
-* Write "I will never mutate state or props directly" 100 times
+* Write "I will never mutate state or props directly" 100 times. In other words create a component and reuse it 100 times.
 
 Release 2 - Style
 -------------
